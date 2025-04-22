@@ -9,26 +9,54 @@
     ]
   },
   {
-    "categoryName": "Demon Tigress Lesi",
-    "categoryDisplayName": "Demon Tigress Lesi",
-    "coverImage": "/images/Demon Tigress Lesi/a.jpg",
+    "categoryName": "heavy Demon Tigress Lesi",
+    "categoryDisplayName": "Heavy Demon Tigress Lesi",
+    "coverImage": "/images/heavy Demon Tigress Lesi/a.jpg",
     "images": [
-      "/images/Demon Tigress Lesi/a.jpg",
-      "/images/Demon Tigress Lesi/GmF0BuPbsAAO8jb.jpg",
-      "/images/Demon Tigress Lesi/TerryGoof.jpg",
-      "/images/Demon Tigress Lesi/TerryInHeaven2.jpg",
-      "/images/Demon Tigress Lesi/TerryOrangeMoon-1.jpg"
+      "/images/heavy Demon Tigress Lesi/a.jpg",
+      "/images/heavy Demon Tigress Lesi/GmF0BuPbsAAO8jb.jpg",
+      "/images/heavy Demon Tigress Lesi/TerryGoof.jpg",
+      "/images/heavy Demon Tigress Lesi/TerryInHeaven2.jpg",
+      "/images/heavy Demon Tigress Lesi/TerryOrangeMoon-1.jpg"
     ]
   },
   {
-    "categoryName": "Demon Tigress Muru",
-    "categoryDisplayName": "Demon Tigress Muru",
-    "coverImage": "/images/Demon Tigress Muru/A.jpg",
+    "categoryName": "heavy Demon Tigress Muru",
+    "categoryDisplayName": "Heavy Demon Tigress Muru",
+    "coverImage": "/images/heavy Demon Tigress Muru/A.jpg",
     "images": [
-      "/images/Demon Tigress Muru/A.jpg",
-      "/images/Demon Tigress Muru/Bwah-2.jpg",
-      "/images/Demon Tigress Muru/FingyNom.jpg",
-      "/images/Demon Tigress Muru/WinterBack-1.jpg"
+      "/images/heavy Demon Tigress Muru/A.jpg",
+      "/images/heavy Demon Tigress Muru/Bwah-2.jpg",
+      "/images/heavy Demon Tigress Muru/FingyNom.jpg",
+      "/images/heavy Demon Tigress Muru/WinterBack-1.jpg"
+    ]
+  },
+  {
+    "categoryName": "heavy Red Demon Leopard Muru",
+    "categoryDisplayName": "Heavy Red Demon Leopard Muru",
+    "coverImage": "/images/heavy Red Demon Leopard Muru/A.jpg",
+    "images": [
+      "/images/heavy Red Demon Leopard Muru/A.jpg",
+      "/images/heavy Red Demon Leopard Muru/B.png",
+      "/images/heavy Red Demon Leopard Muru/RedNyan.jpg",
+      "/images/heavy Red Demon Leopard Muru/RedShhh.jpg",
+      "/images/heavy Red Demon Leopard Muru/VRChat_2024-08-07_21-14-01.713_1080x1920.png",
+      "/images/heavy Red Demon Leopard Muru/VRChat_2024-08-16_01-05-36.943_1080x1920.png",
+      "/images/heavy Red Demon Leopard Muru/VRChat_2024-08-18_03-12-41.176_1920x1080.png",
+      "/images/heavy Red Demon Leopard Muru/VRChat_2024-08-18_21-05-03.372_1080x1920.png",
+      "/images/heavy Red Demon Leopard Muru/VRChat_2024-09-06_01-12-57.538_3840x2160.png",
+      "/images/heavy Red Demon Leopard Muru/VRChat_2024-09-06_01-50-14.185_3840x2160.png",
+      "/images/heavy Red Demon Leopard Muru/VRChat_2024-11-16_21-50-23.418_2160x3840.png"
+    ]
+  },
+  {
+    "categoryName": "heavy Snow Leopard Muru",
+    "categoryDisplayName": "Heavy Snow Leopard Muru",
+    "coverImage": "/images/heavy Snow Leopard Muru/A SnowBack.jpg",
+    "images": [
+      "/images/heavy Snow Leopard Muru/A SnowBack.jpg",
+      "/images/heavy Snow Leopard Muru/SnowBalance.jpg",
+      "/images/heavy Snow Leopard Muru/SnowFlowers.jpg"
     ]
   },
   {
@@ -41,24 +69,6 @@
     ]
   },
   {
-    "categoryName": "Red Demon Leopard Muru",
-    "categoryDisplayName": "Red Demon Leopard Muru",
-    "coverImage": "/images/Red Demon Leopard Muru/A.jpg",
-    "images": [
-      "/images/Red Demon Leopard Muru/A.jpg",
-      "/images/Red Demon Leopard Muru/B.png",
-      "/images/Red Demon Leopard Muru/RedNyan.jpg",
-      "/images/Red Demon Leopard Muru/RedShhh.jpg",
-      "/images/Red Demon Leopard Muru/VRChat_2024-08-07_21-14-01.713_1080x1920.png",
-      "/images/Red Demon Leopard Muru/VRChat_2024-08-16_01-05-36.943_1080x1920.png",
-      "/images/Red Demon Leopard Muru/VRChat_2024-08-18_03-12-41.176_1920x1080.png",
-      "/images/Red Demon Leopard Muru/VRChat_2024-08-18_21-05-03.372_1080x1920.png",
-      "/images/Red Demon Leopard Muru/VRChat_2024-09-06_01-12-57.538_3840x2160.png",
-      "/images/Red Demon Leopard Muru/VRChat_2024-09-06_01-50-14.185_3840x2160.png",
-      "/images/Red Demon Leopard Muru/VRChat_2024-11-16_21-50-23.418_2160x3840.png"
-    ]
-  },
-  {
     "categoryName": "Rin Puppy Girl",
     "categoryDisplayName": "Rin Puppy Girl",
     "coverImage": "/images/Rin Puppy Girl/test.png",
@@ -66,16 +76,6 @@
       "/images/Rin Puppy Girl/test.png",
       "/images/Rin Puppy Girl/VRChat_2024-04-20_21-56-10.817_1440x2560.png",
       "/images/Rin Puppy Girl/VRChat_2024-04-20_21-56-19.675_1440x2560.png"
-    ]
-  },
-  {
-    "categoryName": "Snow Leopard Muru",
-    "categoryDisplayName": "Snow Leopard Muru",
-    "coverImage": "/images/Snow Leopard Muru/A SnowBack.jpg",
-    "images": [
-      "/images/Snow Leopard Muru/A SnowBack.jpg",
-      "/images/Snow Leopard Muru/SnowBalance.jpg",
-      "/images/Snow Leopard Muru/SnowFlowers.jpg"
     ]
   },
   {
